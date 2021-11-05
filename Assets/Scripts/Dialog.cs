@@ -34,8 +34,16 @@ public class Dialog : MonoBehaviour
                 continueButton.SetActive(true);
             }
         }
+    public void option1forbutton()
+    {
+        
+    }
+    public void option2forbutton()
+    {
 
-    
+    }
+
+
     public void NextSentence()
     {
         continueButton.SetActive(false);
