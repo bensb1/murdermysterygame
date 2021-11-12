@@ -29,17 +29,24 @@ public class Dialog : MonoBehaviour
     }
         void Update()
         {
-            if (textDisplay.text == sentences[index])
+         /*   if (textDisplay.text == sentences[index])
             {
                 continueButton.SetActive(true);
-            }
-        }
+            } */
+         }
     public void option1forbutton()
     {
-        
+        index = 0;
     }
     public void option2forbutton()
     {
+        
+        index = 1;
+        textDisplay.text = "";
+        StartCoroutine(Type());
+
+
+
 
     }
 
