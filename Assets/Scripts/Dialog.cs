@@ -49,6 +49,50 @@ public class Dialog : MonoBehaviour
 
 
     }
+    public void option3forbutton()
+    {
+
+        index = 2;
+        textDisplay.text = "";
+        StartCoroutine(Type());
+
+
+
+
+    }
+    public void option4forbutton()
+    {
+
+        index = 3;
+        textDisplay.text = "";
+        StartCoroutine(Type());
+
+
+
+
+    }
+    public void option5forbutton()
+    {
+
+        index = 4;
+        textDisplay.text = "";
+        StartCoroutine(Type());
+
+
+
+
+    }
+    public void option6forbutton()
+    {
+
+        index = 5;
+        textDisplay.text = "";
+        StartCoroutine(Type());
+
+
+
+
+    }
 
 
     public void NextSentence()
