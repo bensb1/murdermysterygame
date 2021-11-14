@@ -12,6 +12,7 @@ public class Dialog : MonoBehaviour
     public GameObject continueButton;
     public GameObject option1;
     public GameObject option2;
+    public AudioSource speechSoundEffect;
 
      void Start()
     {
@@ -44,6 +45,7 @@ public class Dialog : MonoBehaviour
         index = 1;
         textDisplay.text = "";
         StartCoroutine(Type());
+        speechSoundEffect.Play();
 
 
 
@@ -52,9 +54,11 @@ public class Dialog : MonoBehaviour
     public void option3forbutton()
     {
 
+
         index = 2;
         textDisplay.text = "";
         StartCoroutine(Type());
+        speechSoundEffect.Play();
 
 
 
@@ -66,6 +70,7 @@ public class Dialog : MonoBehaviour
         index = 3;
         textDisplay.text = "";
         StartCoroutine(Type());
+        speechSoundEffect.Play();
 
 
 
@@ -77,6 +82,7 @@ public class Dialog : MonoBehaviour
         index = 4;
         textDisplay.text = "";
         StartCoroutine(Type());
+        speechSoundEffect.Play();
 
 
 
@@ -88,6 +94,7 @@ public class Dialog : MonoBehaviour
         index = 5;
         textDisplay.text = "";
         StartCoroutine(Type());
+        speechSoundEffect.Play();
 
 
 
