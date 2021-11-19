@@ -662,15 +662,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 1929480479}
   sentences:
-  - a murder has taken place and then you arrive on scene there are three suspects
-    standing over the body covered in blood your job is to find out who commited
-    the crime your job is too inverview the suspects one by one until you have narrowed
-    it down to one suspect and arrest them but if you get it wrong then you loose
-    and the suspects walks free no pressure don't fail
+  - A murder has taken place and you arrive on the scene. There are three suspects
+    standing over the body, which is covered in blood. Your job is to find out who
+    committed the crime, and also to interview the suspects one by one until you
+    have narrowed it down to one suspect and arrested them but if you get it wrong
+    then you lose and the suspect walks free. No pressure! Don't fail
   typingSpeed: 0.15
   continueButton: {fileID: 0}
-  option1: {fileID: 0}
-  option2: {fileID: 0}
   speechSoundEffect: {fileID: 0}
 --- !u!4 &1835343605
 Transform:
@@ -720,7 +718,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -667.5, y: -347}
+  m_AnchoredPosition: {x: -634, y: -341}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1929480479

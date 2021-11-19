@@ -10,8 +10,7 @@ public class Dialog : MonoBehaviour
     private int index;
     public float typingSpeed;
     public GameObject continueButton;
-    public GameObject option1;
-    public GameObject option2;
+   
     public AudioSource speechSoundEffect;
 
      void Start()
