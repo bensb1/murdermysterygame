@@ -7,7 +7,7 @@ public class ChangingSceneScript : MonoBehaviour
 {
  public void goBackToTitleSceneFromScrafGuyScene()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex  -3);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex  -2);
     }
     public void goBackToTitleSceneFromRunnerGuyScene()
     {
@@ -16,5 +16,17 @@ public class ChangingSceneScript : MonoBehaviour
     public void goBackToTitleSceneFromBeardGuyScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2);
+    }
+    public void MainLinesceneToRunnerguyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 3);
+    }
+    public void MainLinesceneToBeardguyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2);
+    }
+    public void MainLinesceneToScarfguyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 }

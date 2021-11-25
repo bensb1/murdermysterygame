@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scraf guy scene.unity
     guid: f9cb423b889169b45a025c3bb87635dc
+  - enabled: 1
+    path: Assets/Scenes/Lineupscene.unity
+    guid: df541316156121f47bf09abd15df3c68
   m_configObjects: {}
