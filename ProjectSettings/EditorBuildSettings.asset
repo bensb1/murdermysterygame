@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lineupscene.unity
     guid: df541316156121f47bf09abd15df3c68
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4be4bfee598da3c4b8700a475e619eb9
   m_configObjects: {}
