@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scraf guy scene.unity
     guid: f9cb423b889169b45a025c3bb87635dc
+  - enabled: 1
+    path: Assets/Scenes/Guess the killer.unity
+    guid: fcfda96811ebab642a55d3095128c0d5
+  - enabled: 1
+    path: Assets/Scenes/Lost.unity
+    guid: 7dd33035708a5524a88d506407cf5632
+  - enabled: 1
+    path: Assets/Scenes/Won.unity
+    guid: ffc60d160601d91408689eef61a4d049
   m_configObjects: {}
