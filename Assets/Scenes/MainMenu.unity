@@ -929,8 +929,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Murder Mystery Game
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0ef488efb178c1a42bf1f7da6ad8ef66, type: 2}
-  m_sharedMaterial: {fileID: 6414657794577619355, guid: 0ef488efb178c1a42bf1f7da6ad8ef66, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5f5479af74667ea49ab0803544d51552, type: 2}
+  m_sharedMaterial: {fileID: -8841981972011740818, guid: 5f5479af74667ea49ab0803544d51552, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -990,7 +990,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -106.62654, w: 0}
+  m_margin: {x: 0, y: 0, z: -136.81775, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
