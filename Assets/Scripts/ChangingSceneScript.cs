@@ -61,4 +61,24 @@ public class ChangingSceneScript : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
     }
+    public void RunnerGuyToBeardGuyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    public void BearGuyToScrafGuyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    public void BearGuyToRunnerGuyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex  -1);
+    }
+    public void ScrafGuyToRunnerGuyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex  -2);
+    }
+    public void ScrafGuyToBeardGuyScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
 }
