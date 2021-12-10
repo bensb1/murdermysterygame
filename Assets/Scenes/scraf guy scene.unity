@@ -346,10 +346,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: where were you heading?
+  m_text: Where were you heading?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -642,8 +642,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1005642339}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.5904, y: 2.492173, z: 0}
-  m_LocalScale: {x: 1.0555897, y: 1, z: 1}
+  m_LocalPosition: {x: 5.16, y: 2.83, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -717,10 +717,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: who were you with?
+  m_text: Who were you with?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1236,7 +1236,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -100, y: 9}
+  m_AnchoredPosition: {x: -100, y: 77}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1613292848
@@ -1315,10 +1315,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: where were you?
+  m_text: Where were you the night of the murder?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1506,7 +1506,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: go to guess how you think the killer is .
+  m_text: Go to guess who you think the killer is.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1855,10 +1855,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: have you seen the victim today?
+  m_text: Have you seen the victim today?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2129,6 +2129,26 @@ PrefabInstance:
       propertyPath: speechSoundEffect
       value: 
       objectReference: {fileID: 667376448}
+    - target: {fileID: 1111873398808620874, guid: 59edfc15ded6ceb4b9138cd508c20290, type: 3}
+      propertyPath: sentences.Array.data[0]
+      value: You are with Scarf Guy. Ask him questions to find out if he is the killer.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111873398808620874, guid: 59edfc15ded6ceb4b9138cd508c20290, type: 3}
+      propertyPath: sentences.Array.data[1]
+      value: I  just got off the bus.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111873398808620874, guid: 59edfc15ded6ceb4b9138cd508c20290, type: 3}
+      propertyPath: sentences.Array.data[2]
+      value: 'I was with people on the bus. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111873398808620874, guid: 59edfc15ded6ceb4b9138cd508c20290, type: 3}
+      propertyPath: sentences.Array.data[3]
+      value: I was heading to the pub.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111873398808620874, guid: 59edfc15ded6ceb4b9138cd508c20290, type: 3}
+      propertyPath: sentences.Array.data[4]
+      value: No, I haven't seen the victim today.
+      objectReference: {fileID: 0}
     - target: {fileID: 1111873398808620875, guid: 59edfc15ded6ceb4b9138cd508c20290, type: 3}
       propertyPath: m_Name
       value: dialogue manager
@@ -2391,6 +2411,10 @@ PrefabInstance:
     - target: {fileID: 3683775881843753470, guid: ef66a1ccbb6ae0441b963fdf36559412, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3683775881843753471, guid: ef66a1ccbb6ae0441b963fdf36559412, type: 3}
+      propertyPath: m_text
+      value: Go to Title Scene
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef66a1ccbb6ae0441b963fdf36559412, type: 3}

@@ -313,10 +313,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: who were you with?
+  m_text: Who were you with?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -636,12 +636,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' did the cashier have a name?
+  m_text: 'Did the cashier have a name?
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1240,13 +1240,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 836570101}
   sentences:
-  - you are with beard guy ask him questions to find out if he is the killer
-  - 'i was in the shop  '
-  - and i was talking to the cashier
-  - 'the cashier had brown hair,female, possibly in her 20''s '
-  - they had a nametag on and her name is ruby
-  - I saw runner guy as I was waling out of the shop
-  - Runner guy was running towards the pub
+  - You are with Beard Guy. Ask him questions to find out if he is the killer.
+  - 'I was in the shop.  '
+  - I was talking to the cashier.
+  - 'The cashier had brown hair, was female, and possibly in her 20''s '
+  - They had a nametag on which said her her name was Ruby.
+  - I saw Runner Guy as I was waling out of the shop.
+  - Runner guy was running towards the pub. He looked like he was in a hurry.
   typingSpeed: 0.15
   continueButton: {fileID: 0}
   speechSoundEffect: {fileID: 383835261}
@@ -1588,12 +1588,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'what did the cashier look like?
+  m_text: 'What did the cashier look like?
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1780,12 +1780,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' did you know the victim?
+  m_text: 'Did you know the victim?
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1977,8 +1977,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2166,7 +2166,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: go to guess how you think the killer is .
+  m_text: Go to guess who you think the killer is .
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2301,10 +2301,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: where were you?
+  m_text: Where were you?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2537,6 +2537,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3683775881843753471, guid: ef66a1ccbb6ae0441b963fdf36559412, type: 3}
+      propertyPath: m_text
+      value: Go to the Title Scene
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef66a1ccbb6ae0441b963fdf36559412, type: 3}
 --- !u!224 &1789270852 stripped
@@ -2768,8 +2772,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2082233646}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.5904, y: 2.492173, z: 0}
-  m_LocalScale: {x: 1.0555897, y: 1, z: 1}
+  m_LocalPosition: {x: 5.16, y: 2.83, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -2808,7 +2812,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -307, y: 2}
+  m_AnchoredPosition: {x: -305, y: 85}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2082349645
@@ -2831,12 +2835,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'did you see anyone?
+  m_text: 'Did you see anyone the night of the murder?
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
+  m_sharedMaterial: {fileID: -9113456274700070182, guid: c90b30b223cbe7e4982e40afe171717d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

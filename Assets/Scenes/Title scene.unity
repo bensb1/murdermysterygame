@@ -458,7 +458,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: select your suspect
+  m_Text: Select Your Suspect
 --- !u!222 &141490846
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -824,8 +824,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 592337247}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.5904, y: 2.492173, z: 0}
-  m_LocalScale: {x: 1.0555897, y: 1, z: 1}
+  m_LocalPosition: {x: 5.16, y: 2.83, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3

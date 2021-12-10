@@ -431,7 +431,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'interview Beard guy
+  m_Text: 'Interview Beard Guy
 
 '
 --- !u!222 &185787401
@@ -777,7 +777,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'interview Runner guy
+  m_Text: 'Interview Runner Guy
 
 '
 --- !u!222 &721756412
@@ -1168,7 +1168,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'interview Scarf guy
+  m_Text: 'Interview Scarf Guy
 
 '
 --- !u!222 &1453808921

@@ -99,6 +99,18 @@ public class Dialog : MonoBehaviour
 
 
     }
+    public void option7forbutton()
+    {
+
+        index = 6;
+        textDisplay.text = "";
+        StartCoroutine(Type());
+        speechSoundEffect.Play();
+
+
+
+
+    }
 
 
     public void NextSentence()
